@@ -63,6 +63,21 @@ p {
 	height: auto;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
+	-moz-transition: all .21s;
+   -o-transition: all .21s;
+   -webkit-transition: all .21s;
+   transition: all .21s;
+}
+
+#headshot img:hover {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-transition: all .21s;
+   -o-transition: all .21s;
+   -webkit-transition: all .21s;
+   transition: all .21s;
 }
 
 #name {
