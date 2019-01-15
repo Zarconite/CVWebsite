@@ -1,2 +1,2 @@
 # CVWebsite
-Also available at https://pawandtalon.com/jobstuff/boostrap1/index.html
+Also available at https://pawandtalon.com/jobstuff/bootstrap1/index.html
